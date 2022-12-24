@@ -1,0 +1,126 @@
+header{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding:0px 152px;
+}
+li, a{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+}
+img{
+    width: 268px;
+    height: 33px;
+    cursor:pointer;
+}
+p{
+    font-family: Roboto,Arial,sans-serif;
+}
+
+.green{
+    color: #00b39b;
+}
+.gray{
+    color: #ababab;
+}
+.gray:hover{
+    color: #00b39b;
+}
+.nav_links{
+    list-style: none;
+}
+.nav_links li{
+    display: inline-block;
+    padding: 0px 9px;
+}
+.mini_logo{
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin: 0 auto;
+}
+section>h1{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 300;
+    font: size 300;
+    color: #00b39b;
+    text-align: center;
+    word-spacing: 8px;
+}
+.lead_section{
+    margin: 33px 132.5px 60px 132.5px;
+}
+.grid{
+    display: flex;
+    justify-content: center;
+}
+.page{
+    display: flex;
+    margin: 0 20px;
+    color: #747474;
+    font-family:font-family  'Roboto', sans-serif;
+}
+.last_sec{
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+
+}
+.block_1{
+    background-color: #00b39b;
+    color: white;
+    width: 248px;
+    height: 313px;
+    padding: 32px 32px 0px 32px;
+    border-radius: 10px;
+}
+select{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    color: white;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.manlogo{
+width: 24px;
+height: 24px;
+}
+.block_2{
+    background-color: #3d83df;
+    color: white;
+    width: 248px;
+    height: 313px;
+    padding: 32px 32px 0px 32px;
+    border-radius: 10px;
+    margin: 0px 20px 0px 20px;
+}
+.block_3{
+    background-color: #1b2734;
+    color: white;
+    width: 248px;
+    height: 313px;
+    padding: 32px 32px 0px 32px;
+    border-radius: 10px;
+}
+h2{
+    font-family: Work Sans,Arial,sans-serif;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
+h1{
+    font-family: Work Sans,Arial,sans-serif;
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+}
